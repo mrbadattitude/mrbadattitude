@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2000" height="80" alt="image" src="https://github.com/user-attachments/assets/0b0f7be3-3531-484a-8766-f52df9133b82" />
+<img width="540" height="34" alt="image" src="https://github.com/user-attachments/assets/30ed815b-e488-45f3-98d2-398f7e058297" />
 
 </div>
 <br />
@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=PIZZADEBTYAOI&color=111154&style=flat&label=soldiers)
+  ![](https://komarev.com/ghpvc/?username=PIZZADEBTYAOI&color=02d8e9&style=flat&label=filth)
 
 </div>
 <br />
@@ -16,7 +16,7 @@
 <br />
 <div align="center">
   
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/458f3f32-f23c-49f0-9934-4198d3e4b9cc" />
+<img width="400" height="133" alt="image" src="https://github.com/user-attachments/assets/a5c21aed-c856-4a37-baac-0926d7b596bc" />
 
 </div>
 <br />
@@ -32,9 +32,11 @@
 <br />
 <div align="center">
   
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/257d40f6-fb8e-4404-b6cb-2308867d857f" />
+<img width="400" height="133" alt="image" src="https://github.com/user-attachments/assets/807e3eb6-7b97-46d9-b286-ae5352f0d4be" />
 
 </div>
+<br />
+<br />
 <br />
 <div align="center"> 
   
@@ -44,15 +46,10 @@
  <br />
  <br />
  <br />
- <div align="center"> 
-   
-[tumblr graphics cred](https://www.tumblr.com/astr0v4l)
-
- </div>
   <br />
    <br />
 <div align="center"> 
   
-<img width="2000" height="80" alt="image" src="https://github.com/user-attachments/assets/55a8dfc1-4421-4fbb-8a43-0ce02a62d71d" />
+<img width="540" height="34" alt="image" src="https://github.com/user-attachments/assets/30ed815b-e488-45f3-98d2-398f7e058297" />
 
  </div>
