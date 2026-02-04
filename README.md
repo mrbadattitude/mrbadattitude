@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   
-[rentry](https://rentry.co/sweetness_) ㅤㅤㅤㅤㅤ✦ ㅤㅤㅤㅤㅤ[straw](https://tweekscoffeee.straw.page) ㅤㅤㅤㅤㅤ✦ ㅤㅤㅤㅤㅤ[ata](https://double0seven.atabook.org)
+[rentry](https://rentry.co/pvurrity) ㅤㅤㅤㅤㅤ✦ ㅤㅤㅤㅤㅤ[straw](https://tweekscoffeee.straw.page) ㅤㅤㅤㅤㅤ✦ ㅤㅤㅤㅤㅤ[ata](https://double0seven.atabook.org)
 
 </div>
 <br />
